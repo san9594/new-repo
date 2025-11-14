@@ -3,4 +3,6 @@ Hello World!
 This is a sample file committed to the new-repo repository.
 Created on: July 11, 2025
 
+
+
 This file demonstrates basic file operations in Git.
