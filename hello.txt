@@ -6,4 +6,5 @@ Created on: July 11, 2025
 
 
 This file demonstrates basic file operations in Git.operations in Git.
+This file demonstrates basic file operations in Git.operations in Git.
 
